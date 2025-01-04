@@ -6,7 +6,7 @@
   "types": "lib/index.d.ts",
   "type": "module",
   "scripts": {
-    "start": "node .", dwiF5sWz6W
+    "start": "node .",
     "build": "tsc",
     "prepare": "npm run build"
   },
